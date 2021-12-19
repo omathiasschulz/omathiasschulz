@@ -1,4 +1,4 @@
-# Olá :wave:
+# Olá <img src="https://raw.githubusercontent.com/mathiasarturschulz/mathiasarturschulz/master/hello.gif" width="40px"/>
 
 <img
   align="right"
