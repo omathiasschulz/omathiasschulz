@@ -27,7 +27,7 @@ Em breve estará disponível no [meu site](http://schulz.net.br)
 [![Linkedin](https://img.shields.io/badge/mathiasarturschulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathiasarturschulz/)](https://www.linkedin.com/in/mathiasarturschulz/)
 [![GitHub](https://img.shields.io/badge/mathiasarturschulz-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/mathiasarturschulz)](https://github.com/mathiasarturschulz)
 [![Twitter](https://img.shields.io/badge/@mathias_schulz_-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/mathias_schulz_)
-[![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://schulz.net.br)
+[![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://schulz.net.br)
 
 <br>
 
