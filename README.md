@@ -9,8 +9,6 @@
 
 Meu nome é Mathias Artur Schulz
 
-<br>
-
 :spades: Ibirama, Santa Catarina, Brasil
 
 :spades: Estou cursando Ciência da Computação no IFC
