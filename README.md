@@ -15,9 +15,7 @@ Meu nome é Mathias Artur Schulz
 
 :spades: Trabalho como desenvolvedor WEB na [Conectra Sistemas](https://github.com/conectra)
 
-:spades: Estou desenvolvendo um comparador de textos utilizando Python Flask
-
-Em breve estará disponível no [meu site](http://schulz.net.br)
+:spades: Estou desenvolvendo um comparador de textos utilizando Python Flask que está disponível no link [schulz.net.br](http://schulz.net.br)
 
 :spades: Sou jogador de CS:GO nas horas vagas :video_game:
 
