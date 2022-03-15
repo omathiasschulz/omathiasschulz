@@ -11,7 +11,7 @@ Meu nome é Mathias Artur Schulz
 
 :spades: Ibirama, Santa Catarina, Brasil
 
-:spades: Estou cursando Ciência da Computação no [IFC](https://ifc.edu.br/)
+:spades: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/)
 
 :spades: Trabalho como desenvolvedor WEB na [Conectra Sistemas](https://github.com/conectra)
 
