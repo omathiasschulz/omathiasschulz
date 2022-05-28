@@ -1,12 +1,5 @@
 # Olá <img src="https://raw.githubusercontent.com/mathiasarturschulz/mathiasarturschulz/master/hello.gif" width="40px"/>
 
-<img
-  align="right"
-  width="200"
-  alt="megaman"
-  src="https://raw.githubusercontent.com/mathiasarturschulz/mathiasarturschulz/master/gifs/megaman.gif"
-/>
-
 Meu nome é Mathias Artur Schulz
 
 :spades: Ibirama, Santa Catarina, Brasil
@@ -50,19 +43,3 @@ Meu nome é Mathias Artur Schulz
   width="41%"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=omathiasschulz&theme=dark&layout=compact&langs_count=6"
 />
-
-<!--
-## Alguns Projetos
-
-<a
-  href="https://github.com/omathiasschulz/jogo-da-velha-js">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=omathiasschulz&repo=jogo-da-velha-js&theme=dark"
-  />
-</a>
--->
-
-<br>
-
-![build](https://img.shields.io/badge/build-passing-success)
-![version](https://img.shields.io/badge/version-19.Dez.2022-informational)
