@@ -1,4 +1,4 @@
-# Olá <img src="https://raw.githubusercontent.com/mathiasarturschulz/mathiasarturschulz/master/hello.gif" width="40px"/>
+# Olá <img src="https://raw.githubusercontent.com/mathiasarturschulz/mathiasarturschulz/master/hello.gif" width="10px"/>
 
 Meu nome é Mathias Artur Schulz
 
