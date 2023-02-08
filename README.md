@@ -1,29 +1,24 @@
-# Olá :grin:
+# Olá! :wave:
 
-Meu nome é Mathias Artur Schulz
+Meu nome é **Mathias Artur Schulz**
 
-:spades: Ibirama, Santa Catarina, Brasil
+:small_blue_diamond: Atualmente eu trabalho na [Conectra](https://github.com/conectra)
 
-:spades: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/)
+:small_blue_diamond: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/)
 
-:spades: Trabalho como desenvolvedor WEB na [Conectra Sistemas](https://github.com/conectra)
+:small_blue_diamond: Estou focado em Python, PHP, Vue.js, Quasar, Nest.js, Meteor, PostgreSQL e MongoDB
 
-:spades: Estou desenvolvendo um comparador de textos utilizando Python Flask que está disponível no link [schulz.net.br](http://schulz.net.br)
+:small_blue_diamond: Estou desenvolvendo um site [schulz.net.br](https://schulz.net.br) utilizando Vue.js e Quasar no frontend e Python Flask no backend
 
-:spades: Sou jogador de CS:GO nas horas vagas :video_game:
+:small_blue_diamond: Sou jogador de CS:GO nas horas vagas :video_game:
+
+Entre em contato comigo:
 
 [![Email](https://img.shields.io/badge/mathias@schulz.net.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias@schulz.net.br)](mailto:mathias@schulz.net.br)
-[![Linkedin](https://img.shields.io/badge/omathiasschulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omathiasschulz/)](https://www.linkedin.com/in/omathiasschulz/)
+[![Linkedin](https://img.shields.io/badge/omathiasschulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/omathiasschulz/)](https://linkedin.com/in/omathiasschulz/)
 [![GitHub](https://img.shields.io/badge/omathiasschulz-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/omathiasschulz)](https://github.com/omathiasschulz)
-[![Twitter](https://img.shields.io/badge/@omathiasschulz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/omathiasschulz)
-[![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](http://schulz.net.br)
-
-<br>
-
-<img
-  width="100%"
-  src="https://raw.githubusercontent.com/omathiasschulz/omathiasschulz/master/forest.png"
-/>
+[![Twitter](https://img.shields.io/badge/omathiasschulz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/omathiasschulz)
+[![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://schulz.net.br)
 
 >Sonhe grande
 <br>Seja humilde
@@ -33,10 +28,15 @@ Meu nome é Mathias Artur Schulz
 <br>Positividade
 <br>É difícil pra todos. Mas dá. Não desista! - [FalleN](https://twitter.com/FalleNCS)
 
+<img
+  width="100%"
+  src="https://raw.githubusercontent.com/omathiasschulz/omathiasschulz/master/forest.png"
+/>
+
 ## Github Status
 
 <img
-  width="49%"
+  width="46%"
   src="https://github-readme-stats.vercel.app/api?username=omathiasschulz&theme=dark&show_icons=true"
 />
 <img
