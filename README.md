@@ -4,9 +4,11 @@ Meu nome é **Mathias Artur Schulz**
 
 :small_blue_diamond: Atualmente trabalho como Desenvolvedor de Software na [Conectra](https://github.com/conectra)
 
-:small_blue_diamond: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/) e pós-graduando em Engenharia de Software pela [Descomplica](https://descomplica.com.br/)
+:small_blue_diamond: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/) e pós-graduado em Engenharia de Software pela [Descomplica](https://descomplica.com.br/)
 
 :small_blue_diamond: Estou focado em Python • PHP • Vue.js • NestJS • Microsserviços
+
+:small_blue_diamond: Tenho um BOT no twitter [Space Rover BOT](https://twitter.com/SpaceRoverBot) desenvolvido em Python para abordar temas do espaço e o universo
 
 :small_blue_diamond: Estou desenvolvendo um site [schulz.net.br](https://schulz.net.br) utilizando Vue.js e Quasar no frontend e Python Flask no backend
 
