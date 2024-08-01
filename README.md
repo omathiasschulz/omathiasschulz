@@ -1,4 +1,4 @@
-# Hello! <img src="https://raw.githubusercontent.com/omathiasschulz/omathiasschulz/master/icons/hello.gif" width="35">
+# Hello! <img alt="hello" src="https://raw.githubusercontent.com/omathiasschulz/omathiasschulz/master/icons/hello.gif" width="35">
 
 Meu nome é **Mathias Artur Schulz**
 
@@ -21,7 +21,7 @@ Meu nome é **Mathias Artur Schulz**
 [![Email](https://img.shields.io/badge/mathias@schulz.net.br-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mathias@schulz.net.br)](mailto:mathias@schulz.net.br)
 [![Linkedin](https://img.shields.io/badge/omathiasschulz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/omathiasschulz/)](https://linkedin.com/in/omathiasschulz/)
 [![GitHub](https://img.shields.io/badge/omathiasschulz-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/omathiasschulz)](https://github.com/omathiasschulz)
-[![Twitter](https://img.shields.io/badge/omathiasschulz-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/omathiasschulz)
+[![Twitter](https://img.shields.io/badge/omathiasschulz-00acee?style=flat-square&logo=X&logoColor=white)](https://twitter.com/omathiasschulz)
 [![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://schulz.net.br)
 
 </div>
@@ -47,7 +47,7 @@ Meu nome é **Mathias Artur Schulz**
 <br>Trabalhe com vontade
 <br>Espere a sua vez
 <br>Positividade
-<br>É difícil pra todos. Mas dá. Não desista! - [FalleN](https://twitter.com/FalleNCS)
+<br>É difícil pra todos. Mas dá. Não desista!
 
 <img
   width="100%"
