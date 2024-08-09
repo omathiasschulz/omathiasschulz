@@ -1,18 +1,18 @@
 # Hello! <img alt="hello" src="https://raw.githubusercontent.com/omathiasschulz/omathiasschulz/master/icons/hello.gif" width="35">
 
-Meu nome é **Mathias Artur Schulz**
+My name is **Mathias Artur Schulz**
 
-:small_blue_diamond: Atualmente trabalho como Desenvolvedor de Software na [Conectra](https://github.com/conectra)
+:small_blue_diamond: I am currently working as a Software Developer at [Conectra](https://github.com/conectra)
 
-:small_blue_diamond: Sou bacharel em Ciência da Computação pelo [IFC](https://ifc.edu.br/) e pós-graduado em Engenharia de Software pela [Descomplica](https://descomplica.com.br/)
+:small_blue_diamond: I have a Bachelor's degree in Computer Science from [IFC](https://ifc.edu.br/) and a postgraduate degree in Software Engineering from [Descomplica](https://descomplica.com.br/)
 
-:small_blue_diamond: Estou focado em Python • TypeScript • JavaScript • Node.js • NestJS • PHP • Docker • Microsserviços
+:small_blue_diamond: I am focused on Python • TypeScript • JavaScript • Node.js • NestJS • PHP • Docker • Microservices
 
-:small_blue_diamond: Tenho um BOT no twitter [Space Rover BOT](https://twitter.com/SpaceRoverBot) desenvolvido em Python para abordar temas do espaço e o universo
+:small_blue_diamond: I have a Twitter bot [Space Rover BOT](https://twitter.com/SpaceRoverBot) developed in Python that covers topics about space and the universe
 
-:small_blue_diamond: Estou desenvolvendo um site [schulz.net.br](https://schulz.net.br) utilizando Vue.js e Quasar no frontend e Python Flask no backend
+:small_blue_diamond: I am developing a website [schulz.net.br](https://schulz.net.br) using Vue.js and Quasar for the frontend and Python Flask for the backend
 
-:small_blue_diamond: Sou jogador de CS:GO nas horas vagas :video_game:
+:small_blue_diamond: In my spare time, I enjoy going to the gym and play CS :video_game:
 
 ## 🌐 Socials
 
@@ -39,15 +39,16 @@ Meu nome é **Mathias Artur Schulz**
   <img height="180em" alt="omathiasschulz" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omathiasschulz&theme=dark&hide_border=true" />
 </div>
 
-<hr>
+<br>
+<br>
 
->Sonhe grande
-<br>Seja humilde
-<br>Tenha gratidão
-<br>Trabalhe com vontade
-<br>Espere a sua vez
-<br>Positividade
-<br>É difícil pra todos. Mas dá. Não desista!
+>Dream big
+<br>Be humble
+<br>Have gratitude
+<br>Work with passion
+<br>Wait for your turn
+<br>Stay positive
+<br>It's difficult for everyone. But you can do it. Don't give up!
 
 <img
   width="100%"
