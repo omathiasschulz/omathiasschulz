@@ -2,11 +2,11 @@
 
 My name is **Mathias Artur Schulz**
 
-:small_blue_diamond: I am currently working as a Software Developer at [Conectra](https://github.com/conectra)
+:small_blue_diamond: I am currently working as a Software Developer at [CI&T](https://github.com/ciandt)
 
 :small_blue_diamond: I have a Bachelor's degree in Computer Science from [IFC](https://ifc.edu.br/) and a postgraduate degree in Software Engineering from [Descomplica](https://descomplica.com.br/)
 
-:small_blue_diamond: I am focused on TypeScript • JavaScript • NestJS • Node.js • Python • PHP • Docker • Microservices
+:small_blue_diamond: I am focused on TypeScript • JavaScript • Vue.js • NestJS • Node.js • Docker • Microservices
 
 :small_blue_diamond: I have a Twitter bot [Space Rover BOT](https://twitter.com/SpaceRoverBot) developed in Python that covers topics about space and the universe
 
