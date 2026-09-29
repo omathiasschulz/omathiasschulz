@@ -2,11 +2,11 @@
 
 My name is **Mathias Artur Schulz**
 
-:small_blue_diamond: I am currently working as a Software Developer
+:small_blue_diamond: Senior Software Engineer from Brazil
 
-:small_blue_diamond: I have a bachelor's degree in Computer Science and a postgraduate degree in Software Engineering
+:small_blue_diamond: Bachelor's degree in Computer Science and postgraduate degree in Software Engineering
 
-:small_blue_diamond: I am focused on NestJS • Vue.js • Node.js • TypeScript • SQL • Docker
+:small_blue_diamond: Deep expertise in AI Driven Development • TypeScript • Node.js • NestJS • Vue • React
 
 <br>
 
@@ -18,7 +18,7 @@ My name is **Mathias Artur Schulz**
 [![Linkedin](https://img.shields.io/badge/omathiasschulz-blue?style=flat-square&logo=inspire&logoColor=white&link=https://linkedin.com/in/omathiasschulz/)](https://linkedin.com/in/omathiasschulz/)
 [![GitHub](https://img.shields.io/badge/omathiasschulz-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/omathiasschulz)](https://github.com/omathiasschulz)
 [![Twitter](https://img.shields.io/badge/omathiasschulz-00acee?style=flat-square&logo=X&logoColor=white)](https://twitter.com/omathiasschulz)
-[![Website Badge](https://img.shields.io/badge/schulz.net.br-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://schulz.net.br)
+[![Website Badge](https://img.shields.io/badge/roverx.dev-3b5998?style=flat-square&logo=googlechrome&logoColor=white)](https://roverx.dev)
 
 </div>
 
