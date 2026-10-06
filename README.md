@@ -6,7 +6,7 @@ My name is **Mathias Artur Schulz**
 
 :small_blue_diamond: Bachelor's degree in Computer Science and Postgraduate degree in Software Engineering
 
-:small_blue_diamond: Deep expertise in AI Driven Development • TypeScript • Node.js • NestJS • Vue • React
+:small_blue_diamond: Deep expertise in AI-Assisted Development • TypeScript • Node.js • NestJS • Vue • React • SQL
 
 <br>
 
